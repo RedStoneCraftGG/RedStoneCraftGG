@@ -1,4 +1,16 @@
-## Hi there 👋
+## About Me
+
+Minecraft Bedrock JSON UI Programmer and Admin of [Venity Network](https://venitymc.com/) (A Minecraft Bedock Server)
+
+And also nothing...
+
+##
+
+An advanced beginner programmer who is always curious about making something...
+
+🔭 I'm currently developing a PocketMine-MP and PowerNukkitX plugin. Additionally, I often do something quirky for my repositories.
+
+📖 Currently learning JavaScript, PHP, Java, and C++
 
 <!--
 **RedStoneCraftGG/RedStoneCraftGG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
