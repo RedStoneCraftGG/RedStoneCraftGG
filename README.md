@@ -46,7 +46,7 @@ An advanced beginner programmer who is always curious about making something...
 
   - **FARDS (Private)**: Fast and responsive defense system. Used to catch cheaters.
   - **RGI-AntiProxy (Private)**: A PocketMine-MP plugin to block players for using a proxy/VPN.
-  - **RGI-AntiSpamNX (Private)**: A PowerNukkitX plugin to filter, block, and even kick out players for spamming. Also, this is my first plugin I create from Java.
+  - **RGI-AntiSpamPNX (Private)**: A PowerNukkitX plugin to filter, block, and even kick out players for spamming. Also, this is my first plugin I create from Java.
   - **RGI-ServerForm (Private)**: A [Venity Network](https://venitymc.com/) resource pack for custom server forms and other stuff.
   - **[RGI-Telerage](https://github.com/RedStoneCraftGG/RGI-Telerage)**: A silly project that used to spam a Telegram bot from a scammer.
   - **[Crosshair XYZ](https://github.com/RedStoneCraftGG/MCBE-Crosshair-XYZ)**: My abandoned project for Minecraft Bedrock texture, but I manage to revive it and publish it as open source code.
