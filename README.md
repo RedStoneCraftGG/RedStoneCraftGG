@@ -54,7 +54,7 @@ An advanced beginner programmer who is always curious about making something...
 
 <br>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RedStoneCraftGG&hide=shell,css,nsis&layout=compact"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RedStoneCraftGG&hide=shell,css,nsis"/>
 <!--
 **RedStoneCraftGG/RedStoneCraftGG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
