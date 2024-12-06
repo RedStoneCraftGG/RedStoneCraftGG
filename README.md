@@ -2,7 +2,7 @@
 
 Minecraft Bedrock JSON UI Programmer and Admin of [Venity Network](https://venitymc.com/) (A Minecraft Bedock Server)
 
-And also nothing...
+I usually doing lots of Minecraft things. And also nothing...
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RedStoneCraftGG&theme=vue&show_icons=true&count_private=true&include_all_commits=true" align="right"/>
 
@@ -26,8 +26,35 @@ An advanced beginner programmer who is always curious about making something...
   - **VS Code**: My default IDE for JSON UI and Java projects.
   - **Cursor**: My favorite IDE for all projects.
   - **C++**: Used for Arduino projects and OOP.
+  - **C#**: used for Windows Form App.
   - **Java**: Used for developing PowerNukkitX plugins.
+  - **Python**: Snek 🐍.
 
+<br>
+
+### Other stuff
+
+  - **Windows**: My main operating system. I use Windows 11.
+  - **Linux**: My servers are running Linux. Even my IOT device. I prefer to use Ubuntu since it's easy to use.
+  - **IndiHome**: My shitty Internet provider. Really! You can't get another provider if you live in a remote city.
+  - **[Herza](https://herza.id/)**: My projects will be hosted on Herza. Previously, I used this as my proxy to reduce a latency from Indonesia to OVHCloud (Singapore).
+  - **Orange Pi Zero**: My IOT Device.
+
+<br>
+
+### My Projects
+
+  - **FARDS (Private)**: Fast and responsive defense system. Used to catch cheaters.
+  - **RGI-AntiProxy (Private)**: A PocketMine-MP plugin to block players for using a proxy/VPN.
+  - **RGI-AntiSpamNX (Private)**: A PowerNukkitX plugin to filter, block, and even kick out players for spamming. Also, this is my first plugin I create from Java.
+  - **RGI-ServerForm (Private)**: A [Venity Network](https://venitymc.com/) resource pack for custom server forms and other stuff.
+  - **[RGI-Telerage](https://github.com/RedStoneCraftGG/RGI-Telerage)**: A silly project that used to spam a Telegram bot from a scammer.
+  - **[Crosshair XYZ](https://github.com/RedStoneCraftGG/MCBE-Crosshair-XYZ)**: My abandoned project for Minecraft Bedrock texture, but I manage to revive it and publish it as open source code.
+  - **Lethal Company Silly Mod**: You can find it [here](https://thunderstore.io/c/lethal-company/p/MAGDONAL/GanjarHoardingBugSound/). And unreleased mod preview [here](https://youtu.be/3B7hUDU_seg). Mostly are discontinued.
+
+<br>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RedStoneCraftGG&hide=shell,css,nsis&layout=compact"/>
 <!--
 **RedStoneCraftGG/RedStoneCraftGG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
