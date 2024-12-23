@@ -12,7 +12,7 @@ An advanced beginner programmer who is always curious about making something...
 
 🔭 I'm currently developing a PocketMine-MP and PowerNukkitX plugin. Additionally, I often do something quirky for my repositories.
 
-📖 Currently learning JavaScript, PHP, Java, and C++
+📖 Currently learning Java, Kotlin, and Go.
 
 <br>
 
