@@ -81,6 +81,9 @@ At least I tried them all.
   - **[RGI-Telerage](https://github.com/RedStoneCraftGG/RGI-Telerage)**: A silly project that used to spam a Telegram bot from a scammer
   - **[Crosshair XYZ](https://github.com/RedStoneCraftGG/MCBE-Crosshair-XYZ)**: My abandoned project for Minecraft Bedrock texture, but I manage to revive it and publish it as open source code
   - **[MC Skin Viewer](https://github.com/RedStoneCraftGG/MC-Skin-Viewer)**: A simple Minecraft skin viewer using Three.js
+  - **[JSON Escape](https://github.com/RedStoneCraftGG/JSON-Escape)**: A tool to encrypt/decrypt your json file for Minecraft Bedrock resource pack
+  - **Codename-Endcrypted**: A tool to encrypt your minecraft resource pack using javascript/typescript or even python and go (Coming Soon)
+  - **RGI Music Player**: Under development
 
 <h2>Stats</h2>
 
