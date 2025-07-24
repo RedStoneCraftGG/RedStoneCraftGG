@@ -91,10 +91,6 @@ At least I tried them all.
 
 <br>
 
-<p><img src="https://streak-stats.demolab.com?user=RedStoneCraftGG&theme=dark&date_format=j%20M%5B%20Y%5D&type=png" alt="RedStoneCraftGG" /></p>
-
-<br>
-
 <p><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RedStoneCraftGG&hide=shell,css,nsis&theme=dark"/></p>
 
 <br>
