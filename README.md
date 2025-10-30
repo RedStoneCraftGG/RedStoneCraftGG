@@ -54,8 +54,7 @@ At least I tried them all.
 
 <h2>Currently Learning</h2>
 
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
-[![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#)
+- Dragonfly-MC
 
 <h2>Projects</h2>
 
