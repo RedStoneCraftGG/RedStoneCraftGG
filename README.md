@@ -70,10 +70,7 @@ An advanced beginner programmer who is always curious about making something. I 
   - **[JSON Escape](https://github.com/RedStoneCraftGG/JSON-Escape)**: A tool to encrypt/decrypt your json file for Minecraft Bedrock resource pack
   - **[DF Note Block Player](https://github.com/RedStoneCraftGG/df-noteblockplayer)**: Simple Implementation of note block player using `.nbs` file format
   - **[SimpleForm](https://github.com/RedStoneCraftGG/simpleform)**: A server form builder for Dragonfly-MC and easy to use
-
-<h3>Main Upcoming Project</h3>
-
-  - **Project Rilcolt**
+  - **Soloneko**: Project Rilcolt
 
 <h2>Stats</h2>
 
