@@ -70,14 +70,6 @@ An advanced beginner programmer who is always curious about making something. I 
   - **[JSON Escape](https://github.com/RedStoneCraftGG/JSON-Escape)**: A tool to encrypt/decrypt your json file for Minecraft Bedrock resource pack
   - **[DF Note Block Player](https://github.com/RedStoneCraftGG/df-noteblockplayer)**: Simple Implementation of note block player using `.nbs` file format
   - **[SimpleForm](https://github.com/RedStoneCraftGG/simpleform)**: A server form builder for Dragonfly-MC and easy to use
-  - **Soloneko**: Project Rilcolt
-
-<h2>Stats</h2>
-
-<p><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RedStoneCraftGG&theme=dark&show_icons=true&count_private=true&include_all_commits=true" /></p>
-
-<br>
-
-<p><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RedStoneCraftGG&hide=shell,css,nsis&theme=dark"/></p>
-
-<br>
+  - **[Qualcomm MDM9K Control Center](https://github.com/RedStoneCraftGG/Qualcomm-MDM9K-Control-Center)**: A 4G Modem controller for Qualcomm MDM9K Series with native WinUI 3 integration
+  - **OS-Pet**: A Desktop Pet project, but the operating system is your pet
+  - **Soloneko**: Project Rilcolt (Halted!)
