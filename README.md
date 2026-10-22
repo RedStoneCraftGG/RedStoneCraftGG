@@ -59,8 +59,7 @@ An advanced beginner programmer who is always curious about making something. I 
 
 <h2>Currently Learning</h2>
 
-- Dragonfly-MC
-- Godot / Unity / Unreal Engine
+- .NET 10 / WinUI 3 / C# libraries / Whisper / LLM
 
 <h2>Projects</h2>
 
