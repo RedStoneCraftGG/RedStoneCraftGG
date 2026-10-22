@@ -63,12 +63,6 @@ An advanced beginner programmer who is always curious about making something. I 
 
 <h2>Projects</h2>
 
-  - **[RGI-Telerage](https://github.com/RedStoneCraftGG/RGI-Telerage)**: A silly project that used to spam a Telegram bot from a scammer
-  - **[Crosshair XYZ](https://github.com/RedStoneCraftGG/MCBE-Crosshair-XYZ)**: My abandoned project for Minecraft Bedrock texture, but I manage to revive it and publish it as open source code
-  - **[MC Skin Viewer](https://github.com/RedStoneCraftGG/MC-Skin-Viewer)**: A simple Minecraft skin viewer using Three.js
-  - **[JSON Escape](https://github.com/RedStoneCraftGG/JSON-Escape)**: A tool to encrypt/decrypt your json file for Minecraft Bedrock resource pack
-  - **[DF Note Block Player](https://github.com/RedStoneCraftGG/df-noteblockplayer)**: Simple Implementation of note block player using `.nbs` file format
-  - **[SimpleForm](https://github.com/RedStoneCraftGG/simpleform)**: A server form builder for Dragonfly-MC and easy to use
   - **[Qualcomm MDM9K Control Center](https://github.com/RedStoneCraftGG/Qualcomm-MDM9K-Control-Center)**: A 4G Modem controller for Qualcomm MDM9K Series with native WinUI 3 integration
   - **OS-Pet**: A Desktop Pet project, but the operating system is your pet
   - **Soloneko**: Project Rilcolt (Halted!)
