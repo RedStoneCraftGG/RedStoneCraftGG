@@ -1,8 +1,8 @@
 <h2>About Me</h2>
 
-Minecraft Bedrock JSON UI Programmer and Admin of [Venity Network](https://venitymc.com/) (A Minecraft Bedock Server)
+Minecraft Bedrock JSON UI Programmer and a former Admin of [Venity Network](https://venitymc.com/)
 
-An advanced beginner programmer who is always curious about making something. I usually doing lots of Minecraft things. And also nothing...
+Not too advanced programmer who is always curious about making something. I usually doing lots of Minecraft things. And also something silly...
 
 <h2>Language, Tools & Others</h2>
 
